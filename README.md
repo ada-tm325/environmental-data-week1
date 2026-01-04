@@ -1,4 +1,4 @@
-# environmental-data-week-1
+# environmental-data-week1
 
 NB: the /data folder was too big to pose on github. You can access the data using the following Dropbox link: 
 https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
